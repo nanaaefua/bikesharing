@@ -22,9 +22,7 @@ The purpose of the analysis is to analysis data collected from New York City to 
 3. Summary:
 The overall data shows that men are high users of the bike sharing all around the clock as compared to women. The data shown that men are twice more the users of bike sharing in New York city no matter the time of the day as deduced from the 12 hours bike usage. No matter the time of the day the amount of bike sharers is impressive and generate a lot of subscribers which keeps the business of bike sharing to be lucrative. If there are tourist site in IOWA and has high traffic problems citizens would be ready to patronize the bike sharing business.
 
-
-[link to dashboard](NYC biking challenge for Module 14 | Tableau Public)
-
+Link to tableau dashboard to show visualization - https://public.tableau.com/app/profile/margaret.quansah/viz/NYCbikingchallengeforModule14/UsersbyTime 
 
 Contact
 
