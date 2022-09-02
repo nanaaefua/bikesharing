@@ -26,6 +26,8 @@ The overall data shows that men are high users of the bike sharing all around th
 [link to dashboard](NYC biking challenge for Module 14 | Tableau Public)
 
 
+Contact
+
 Email: equansah1@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/margaret-efua-quansah-596b01209 
